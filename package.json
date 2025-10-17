@@ -1,0 +1,11 @@
+{
+  "name": "temperature-converter",
+  "version": "1.0.0",
+  "description": "Simple temperature converter with automated testing",
+  "main": "converter.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Yasir Sultan",
+  "license": "MIT"
+}
